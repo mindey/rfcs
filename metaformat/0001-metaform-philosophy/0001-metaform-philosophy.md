@@ -44,11 +44,11 @@ $$
 
 Where, $$C_1 \cdots C_N$$ are format or language contexts, and $$S_1 \cdots S_N$$ are [metasymbols](https://proofwiki.org/wiki/Definition:Metalanguage/Metasymbol), and $$N \in \mathbb{N}$$.
 
-For example if we want to introduce a metasymbol in multiple languages and formats, which may be in conflict with the already-defined symbols and reserved words within the languages and formats, we can introduce a polycontext metasymbol with domain in those languages and formats, for example, $$C = ($$ `XML`, `RDF`, `JSON`, `YAML`, `Python`, `JavaScript`, `Scheme` $$)$$, and codomain with our chosen values for $$S$$, for example $$S = ($$ `__`, `_`, `*`, `*`, `#*`, `{/*S*/}`, `#|*|#` $$)$$.
+For example if we want to introduce a metasymbol in multiple languages and formats, which may be in conflict with the already-defined symbols and reserved words within the languages and formats, we can introduce a polycontext metasymbol with domain in those languages and formats, for example, $$C = ($$ `XML`, `RDF`, `JSON`, `YAML`, `Python`, `JavaScript`, `Scheme` $$)$$, and codomain with our chosen values for $$S$$, for example $$S = ($$ `__`, `_`, `*`, `*`, `#*`, `{/*S*/}`, `#|*|#` $$)$$, and then use it for arbitrary semantic or syntactic purposes.
 
 ## Metaformat Requirements
 
-What follows, is a set of requirements for properties of data with metaformat specification through a metasymbol.
+What follows, is a set of requirements for properties of data with metaheader specification through a polycontext metasymbol. The goal of introducing these properties (or requirements) is to make data understandable and automatically reusable for intended purposes regardless of the original formats that it is in.
 
 ## 1. Non-obsolescence
 [DETAILED SPECIFICATION](01-non-obsolescence.md)
@@ -82,7 +82,7 @@ Data should be able to present itself in the user's language automatically. For 
 ## 6. Algebraic Tractability
 [DETAILED SPECIFICATION](06-algebraic-tractability.md)
 
-The data objects must contain an algebra, where objects can be combined in arbitrary ways to form new objects, the sum and difference operations has to be defiend between arbitrary objects of arbitrary internal hierarchy, so that we could define distance between objects, enabling us to solve for transitions (or transformations) required to take a set of objects and turn them into another (desired) set of objects.
+The data objects must form an algebra, where objects can be combined in arbitrary ways to form new objects, the sum and difference operations has to be defiend between arbitrary objects of arbitrary internal hierarchy, so that we could define distance between objects, enabling us to solve for transitions (or transformations) required to take a set of objects and turn them into another (desired) set of objects, and perform goal alignments like [process additions](https://www.lesswrong.com/posts/yBGcu4kFzvLHRjZnk/cognitive-bias-of-ai-researchers) (_"Bob is a process, and Alice is processes,... and they collectively are progressing towards some desired convergent state, defined by process addition."_), and encapsulating the wills of the object authors within the objects themselves to auto-resolve the alignments by evolving on the Internet as a shared computer.
 
 ## 7. Purposefulness
 [DETAILED SPECIFICATION](07-purposefulness.md)
