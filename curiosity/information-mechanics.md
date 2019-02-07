@@ -4,7 +4,7 @@
 The Newton's laws talk about a "matter object", where the amount of matter is measured in KG. We can interpret this as the "information object", and measure the amount in "bits".
 
 ## 1.
-The Newton's law of motion says the an object travels at a constant speed forever, if it is not affected by additional forces. The motion towards one direction is simple translation of coordinates.
+The Newton's law of motion says that an object travels at a constant speed forever, if it is not affected by additional forces. The motion towards one direction is simple translation of coordinates.
 
 We can formulate equivalent law of motion for objects to travel into the future, as a continuous translation of coordinates. The translation of information can be imagined as continuous process that copies the state from one time-slice to the adjacent time-slice without losing bits.
 
