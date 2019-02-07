@@ -57,7 +57,7 @@ Compare:
 
 ## New technologies:
 
-- intimate mind process exchange engines
+- <u>intimate mind process exchange engines</u>
  (people with shared interests exchange much personal data,
   and replicate each other's processes in each other's minds,
   e.g., - plan together, reason together, build together, trust each other, cooperate...)
