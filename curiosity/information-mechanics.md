@@ -61,3 +61,7 @@ Compare:
  (people with shared interests exchange much personal data,
   and replicate each other's processes in each other's minds,
   e.g., - plan together, reason together, build together, trust each other, cooperate...)
+
+
+#### Related Facts
+* https://naldc.nal.usda.gov/download/IND43969298/PDF - decay of plants under temperature.
