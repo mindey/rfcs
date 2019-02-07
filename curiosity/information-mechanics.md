@@ -1,23 +1,23 @@
 # Information mechanics
 
-## 0.
+## 0. Matter object -> Information object
 The Newton's laws talk about a "matter object", where the amount of matter is measured in KG. We can interpret this as the "information object", and measure the amount in "bits".
 
-## 1.
+## 1. Law of Inertia
 The Newton's law of motion says that an object travels at a constant speed forever, if it is not affected by additional forces. The motion towards one direction is simple translation of coordinates.
 
 We can formulate equivalent law of motion for objects to travel into the future, as a continuous translation of coordinates. The translation of information can be imagined as continuous process that copies the state from one time-slice to the adjacent time-slice without losing bits.
 
 (For example, a crystal system of a rock may translate into the future without loss of information.)
 
-## 2.
+## 2. Law of Accelration
 The Newton's law of motion says the object changes speed, if force is applied.
 
 We can formulate equivalent law of information motion over the time dimension, if additional forces of entropy/extropy are applied.
 
 If the entropy is thought of as bit mutation rate ("number of bits changed in a string of length N bits per unit of time t", e.g., Levenstein distance, or delta-Kolmogorov complexity), and the extropy can be thought of as a bit replication rate ("number of bits from N bit string copied over unit of time t"), then we can use these processes to construct a process where information evolution happens, determining the information content translation into future. (proliferation or decay can be thought of falling out of orbit, or escaping the orbit)
 
-## 3.
+## 3. Orbital Velocity
 The orbital mechanics says, that the orbit trajectory is a tradeoff of two forces - centrifugal force, and gravitational force.
 
 We can formulate equivalent law of information motion, where entropy corresponds to gravitational force, and extropy corresponds to centrifugal force. Information object thus stays in orbit, as long as the information replication (compare: "height gain due to linear velocity") is compensating for the information loss due to entropy (compare: "height loss due to gravity").
