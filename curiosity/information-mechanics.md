@@ -43,7 +43,7 @@ Compare:
 ## Sources of entropy/extropy? Geometry of Entropy field?
 
 - Entropy is high where temperature or disorder/chaos is high.
-- Extropy is high where replication and compression rates are high.
+- Extropy is high where replication and compression rates are high. (note: compression correlates with good models and intelligence).
 
 ## Already existing technologies:
 - copy cell nucleus (life) (+sex -> mutation=exploration of new optima)
